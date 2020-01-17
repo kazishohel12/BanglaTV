@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="",TBN24 USA
+http://fingerme.dg21bd.com:80/TBN24/index.m3u8
+
+#EXTINF:-1 tvg-logo="",NTV BD
+https://www.youtube.com/watch?v=KM5740HQ0pQ&feature=youtu.be
+
+#EXTINF:-1 tvg-logo="",ETV BD
+https://www.youtube.com/watch?v=GFqAl699xSI
+
+
+
+#EXTINF:-1 tvg-logo="",ETV BD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1579236721/ei/EekgXri8CoKp8wTU75uoBg/ip/108.41.163.134/id/GFqAl699xSI.0/source/yt_live_broadcast/requiressl/yes/tx/23813228/txs/23813225%2C23813226%2C23813227%2C23813228%2C23813229%2C23813230%2C23813231/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/beids/23870288/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgQsLcJnJRt4Vk0KRGTy9bQSgVBCL8kabDxi3uaWDj1BoCICps65eXHJeqg-rEqsVSAPO464SvRyC-QNVXIElPd4Kc/file/index.m3u8
+
