@@ -29,7 +29,7 @@ http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD [IN] (2)" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Bangladesh",Star Jalsha HD [IN] (2)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD " tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Bangladesh",Star Jalsha HD [IN] (2)
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
 
