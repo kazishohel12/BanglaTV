@@ -1,8 +1,7 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alif IPTV [BD]" tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="Bangladesh",Alif IPTV [BD]
 http://128.199.212.160/alif/1080/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Artv Network [BD]" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/AR.png" group-title="Bangladesh",Artv Network [BD]
-https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ayna IPTV [BD]" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ayna.jpg" group-title="Bangladesh",Ayna IPTV [BD]
 http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla IPTV [BD]" tvg-logo="https://i.imgur.com/bYFH9ra.jpg" group-title="Bangladesh",Bangla IPTV [BD]
