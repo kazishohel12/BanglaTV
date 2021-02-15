@@ -1,42 +1,26 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alif IPTV [BD]" tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="Bangladesh",Alif IPTV [BD]
 http://128.199.212.160/alif/1080/index.m3u8?@amarnettv.live
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ayna IPTV [BD]" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ayna.jpg" group-title="Bangladesh",Ayna IPTV [BD]
 http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla IPTV [BD]" tvg-logo="https://i.imgur.com/bYFH9ra.jpg" group-title="Bangladesh",Bangla IPTV [BD]
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8?@amarnettv.live
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo= "http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg" group-title="Bangladesh",ATN Bangla
 https://rhridoy136.shortcm.li/atnbangla.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangladesh",ATN News
 https://rhridoy136.shortcm.li/atnnews.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 23 IPTV [BD]" tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="Bangladesh",Channel 23 IPTV [BD]
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV HD" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangladesh",EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hernet IPTV [BD]" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/08/hernettv.jpg?x91288" group-title="Bangladesh",Hernet IPTV [BD]
 https://server1.jadubd.com/hernettv/hernettv/chunklist_w604863394.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ktv bangla HD [BD]" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ktv.jpg" group-title="Bangladesh",Ktv bangla HD [BD]
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga HD" tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladesh",Maasranga HD
 http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NANDAN IPTV [BD]" tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="Bangladesh",NANDAN IPTV [BD]
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD [IN] (2)" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Bangladesh",Star Jalsha HD [IN] (2)
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangladesh",Zee Bangla Cinema [IN]
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Bangladesh",Zee Bangla HD
-http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg?x91288" group-title="Bangladesh",Bangla TV
 https://rhridoy136.shortcm.li/banglatv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="Bangladesh",Bijoy TV
@@ -47,8 +31,6 @@ https://rhridoy136.shortcm.li/channel9.m3u8
 https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="Bangladesh",Channel I
 https://rhridoy136.shortcm.li/channeli.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangladesh",DBC News
-https://rhridoy136.shortcm.li/dbcnews.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangladesh",Desh TV
 https://rhridoy136.shortcm.li/deshtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288" group-title="Bangladesh",Gaan Bangla
@@ -67,12 +49,18 @@ https://rhridoy136.shortcm.li/sangsadtv.m3u8
 https://rhridoy136.shortcm.li/satv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shomoy TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Bangladesh",Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="BANGLA ENT.",Orange Bangla [IN]
-https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Calcutta News [IN]" tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="Bangladesh",Calcutta News [IN]
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/cnews.m3u8
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD [IN] (2)" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Bangladesh",Star Jalsha HD [IN] (2)
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangladesh",Zee Bangla Cinema [IN]
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Bangladesh",Zee Bangla HD
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangladesh",DBC News
+https://rhridoy136.shortcm.li/dbcnews.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="BANGLA ENT.",Orange Bangla [IN]
+https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekhon Kolkata [IN]" tvg-logo="https://dl.dropbox.com/s/bk055soezukgi45/71120680.png" group-title="BANGLA ENT.",Ekhon Kolkata [IN]
 http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bongo TV [BD]" tvg-logo="https://dl.dropbox.com/s/m28fuy4f9lpdkmw/bg.png" group-title="BANGLA ENT.",Bongo TV [BD]
