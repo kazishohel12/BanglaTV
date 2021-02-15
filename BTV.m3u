@@ -77,7 +77,7 @@ http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
 https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV IPTV [BD]" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangladesh",ITV IPTV [BD]
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FALGUNI TV" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangladesh",FALGUNI TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FALGUNI TV" tvg-logo="http://www.falgunitv.news/wp-content/uploads/2020/05/Falguni-2.png" group-title="Bangladesh",FALGUNI TV
 https://atv-hls.telelivebd.com/atv/atv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI Bangla TV " tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangladesh",DIGI BANGLA TV
 http://103.205.133.44:1935/extban/chdigihd/playlist.m3u8
