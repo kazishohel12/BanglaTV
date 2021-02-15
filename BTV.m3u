@@ -53,6 +53,20 @@ https://rhridoy136.shortcm.li/shomoytv.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/cnews.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD [IN] (2)" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Bangladesh",Star Jalsha HD [IN] (2)
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesh",Maasranga TV
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AR TV Network" tvg-logo="https://www.dropbox.com/s/d2lmkcs762rq6yx/AR%20TV%20Network.png?raw=1" group-title="Bangladesh",AR TV Network
+https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ayna TV" tvg-logo="https://i.ytimg.com/vi/I7FEy13Menc/maxresdefault.jpg" group-title="Bangladesh",Ayna TV
+http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bangla Channel" tvg-logo="" group-title="Bangladesh",Bangla Channel
+http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Magic Bangla" tvg-logo="" group-title="IPTV Online",Magic Bangla
+http://enaniptv.com/magicbanglatv/1080/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Probashi Bangla" tvg-logo="https://dohabd.com/wp-content/uploads/2019/12/probashi-bangla.jpg" group-title="Bangladesh",Probashi Bangla
+http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangladesh",Zee Bangla Cinema [IN]
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Bangladesh",Zee Bangla HD
@@ -89,18 +103,8 @@ http://fingerme.dg21bd.com/TBN24/index.m3u8?@amarnettv.live
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel T1 IPTV [BD]" tvg-logo="https://i.imgur.com/dyoXd9c.png" group-title="BANGLA ENT.",Channel T1 IPTV [BD]
 http://128.199.212.160/channelt1/1080/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="General Bangla",Maasranga TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AR TV Network" tvg-logo="https://www.dropbox.com/s/d2lmkcs762rq6yx/AR%20TV%20Network.png?raw=1" group-title="IPTV Online",AR TV Network
-https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ayna TV" tvg-logo="https://i.ytimg.com/vi/I7FEy13Menc/maxresdefault.jpg" group-title="IPTV Online",Ayna TV
-http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bangla Channel" tvg-logo="" group-title="IPTV Online",Bangla Channel
-http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Magic Bangla" tvg-logo="" group-title="IPTV Online",Magic Bangla
-http://enaniptv.com/magicbanglatv/1080/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Probashi Bangla" tvg-logo="https://dohabd.com/wp-content/uploads/2019/12/probashi-bangla.jpg" group-title="IPTV Online",Probashi Bangla
-http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="News",Ekattor TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
@@ -230,6 +234,8 @@ http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?@amarnettv.liv
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khyber News" tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="News",Khyber News
 http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8?@amarnettv.live
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="English",Al Jazeera
 https://rhridoy136.shortcm.li/aljazeera.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera HD" tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="English",Al Jazeera HD
@@ -296,35 +302,36 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AlFajer MOVIE" tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="English",AlFajer MOVIE
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makkah Live" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="Islamic",Makkah Live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makkah Live" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="RELGIOUS",Makkah Live
 https://rhridoy136.shortcm.li/makkahlive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Medina Live" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="Islamic",Medina Live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Medina Live" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="RELGIOUS",Medina Live
 https://rhridoy136.shortcm.li/madinalive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iqra Bangla TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Islamic",Iqra Bangla TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iqra Bangla TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="RELGIOUS",Iqra Bangla TV
 https://rhridoy136.shortcm.li/iqrabangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peace TV Bangla" tvg-logo="https://pbs.twimg.com/media/Dhz7Kw8U8AIMcyG.png" group-title="Islamic",Peace TV Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peace TV Bangla" tvg-logo="https://pbs.twimg.com/media/Dhz7Kw8U8AIMcyG.png" group-title="RELGIOUS",Peace TV Bangla
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bahrain Quran TV" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2002112204140-L.jpg" group-title="Islamic",Bahrain Quran TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bahrain Quran TV" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2002112204140-L.jpg" group-title="RELGIOUS",Bahrain Quran TV
 http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?v=1548640033
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ahl - Alquran TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMWJgzFpfIDbCYZubhu6wa0Oyflb2EELhgIQ&usqp=CAU" group-title="Islamic",Ahl - Alquran TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ahl - Alquran TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMWJgzFpfIDbCYZubhu6wa0Oyflb2EELhgIQ&usqp=CAU" group-title="RELGIOUS",Ahl - Alquran TV
 https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peace TV English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Peace_TV_logo_2015.jpeg/120px-Peace_TV_logo_2015.jpeg" group-title="Islamic",Peace TV English
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peace TV English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Peace_TV_logo_2015.jpeg/120px-Peace_TV_logo_2015.jpeg" group-title="RELGIOUS",Peace TV English
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peace TV Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Peace_TV_urdu_logo_2015.jpeg/120px-Peace_TV_urdu_logo_2015.jpeg" group-title="Islamic",Peace TV Urdu
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peace TV Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Peace_TV_urdu_logo_2015.jpeg/120px-Peace_TV_urdu_logo_2015.jpeg" group-title="RELGIOUS",Peace TV Urdu
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="IIPC TV" tvg-logo="https://www.iipccanada.com/wp-content/uploads/2016/05/iipc_origin.jpg" group-title="Islamic",IIPC TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="IIPC TV" tvg-logo="https://www.iipccanada.com/wp-content/uploads/2016/05/iipc_origin.jpg" group-title="RELGIOUS",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?fluxusfaith.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Noor Dubai" tvg-logo="https://www.pngitem.com/pimgs/m/78-784688_noor-dubai-tv-logo-png-transparent-png.png" group-title="Islamic",Noor Dubai
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Noor Dubai" tvg-logo="https://www.pngitem.com/pimgs/m/78-784688_noor-dubai-tv-logo-png-transparent-png.png" group-title="RELGIOUS",Noor Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Islamic Network" tvg-logo="https://theislamicnetwork.org/wp-content/uploads/musicpro/bd-uploads/logo_logo_TIN-Logo-White-Text.png" group-title="Islamic",The Islamic Network
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Islamic Network" tvg-logo="https://theislamicnetwork.org/wp-content/uploads/musicpro/bd-uploads/logo_logo_TIN-Logo-White-Text.png" group-title="RELGIOUS",The Islamic Network
 http://162.244.81.145:2215/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Iqraa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Iqraa_logo.gif/200px-Iqraa_logo.gif" group-title="Islamic",Iqraa
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Iqraa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Iqraa_logo.gif/200px-Iqraa_logo.gif" group-title="RELGIOUS",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Al Istiqama TV" tvg-logo="https://img.iptvmate.net/5e933b41b3bdf92f6965c700.png" group-title="Islamic",Al Istiqama TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Al Istiqama TV" tvg-logo="https://img.iptvmate.net/5e933b41b3bdf92f6965c700.png" group-title="RELGIOUS",Al Istiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTA World" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-mta-international-3683.jpg" group-title="Islamic",MTA World
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTA World" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-mta-international-3683.jpg" group-title="RELGIOUS",MTA World
 https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="ISLAM",Peace TV Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="RELGIOUS",Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?@IPTVSoltuion
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="ISLAM",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
@@ -1150,12 +1157,8 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Racing" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangabondhu T20" tvg-logo="https://lh3.googleusercontent.com/proxy/vpygYBvHcad1FTwez4IvTdifnWrI8WO5za_WT2pCNrnHkTsgfA7ZfTs6_wAojrccyhLHdqaXY4Ki_mO8STZayS8D1GpNRsOm_nS4YfsE87oUOmcjngdhhQDz67F7jdJU5TOX5PWXwPteFYdSVD02RFbnx7CXDjECKs8d=w512-h287" group-title="Bangabondhu T20 Cup",Bangabondhu T20
-https://rhridoy136.shortcm.li/bangabondhut20.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangabondhu T20(Backup 3)" tvg-logo="https://lh3.googleusercontent.com/proxy/vpygYBvHcad1FTwez4IvTdifnWrI8WO5za_WT2pCNrnHkTsgfA7ZfTs6_wAojrccyhLHdqaXY4Ki_mO8STZayS8D1GpNRsOm_nS4YfsE87oUOmcjngdhhQDz67F7jdJU5TOX5PWXwPteFYdSVD02RFbnx7CXDjECKs8d=w512-h287" group-title="Bangabondhu T20 Cup",Bangabondhu T20(Backup 3)
-https://rhridoy136.shortcm.li/bangabondhut20backup3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangabondhu T20(Backup 4)" tvg-logo="https://lh3.googleusercontent.com/proxy/vpygYBvHcad1FTwez4IvTdifnWrI8WO5za_WT2pCNrnHkTsgfA7ZfTs6_wAojrccyhLHdqaXY4Ki_mO8STZayS8D1GpNRsOm_nS4YfsE87oUOmcjngdhhQDz67F7jdJU5TOX5PWXwPteFYdSVD02RFbnx7CXDjECKs8d=w512-h287" group-title="Bangabondhu T20 Cup",Bangabondhu T20(Backup 4)
-https://rhridoy136.shortcm.li/bangabondhut20backup4.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery english" tvg-logo="" group-title="Channel",discovery english
 https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery  sd bangla" tvg-logo="" group-title="Channel",discovery  sd bangla
