@@ -77,7 +77,8 @@ http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
 https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV IPTV [BD]" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangladesh",ITV IPTV [BD]
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FALGUNI TV" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangladesh",FALGUNI TV
+https://atv-hls.telelivebd.com/atv/atv.m3u8
 
 #EXTINF:-1 tvg-id="ALJazeera(src07).in(m3u4u)" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
