@@ -1159,123 +1159,18 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?@amarnettv
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?@amarnettv.live
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery english" tvg-logo="" group-title="Channel",discovery english
-https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery  sd bangla" tvg-logo="" group-title="Channel",discovery  sd bangla
-https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery hindi" tvg-logo="" group-title="Channel",discovery hindi
-https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery turbo" tvg-logo="" group-title="Channel",discovery turbo
-https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="disney hd" tvg-logo="" group-title="Channel",disney hd
-http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery" tvg-logo="" group-title="Channel",discovery
-https://streamitv.multitvsolution.in/idvo/discoverybengali_540p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star jalsha full hs" tvg-logo="" group-title="Channel",star jalsha full hs
-http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star jalsha hd {link 2}" tvg-logo="" group-title="Channel",star jalsha hd {link 2}
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sony sab hd" tvg-logo="" group-title="Channel",sony sab hd
-http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="zee bangla hd" tvg-logo="" group-title="Channel",zee bangla hd
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="zee bangla hd {link 2}" tvg-logo="" group-title="Channel",zee bangla hd {link 2}
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="massranga tv hd" tvg-logo="" group-title="Channel",massranga tv hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="71 tv hd" tvg-logo="" group-title="Channel",71 tv hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="nagorik tv" tvg-logo="" group-title="Channel",nagorik tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="chanel i hd" tvg-logo="" group-title="Channel",chanel i hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="deepto tv hd" tvg-logo="" group-title="Channel",deepto tv hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="gazi tv hd" tvg-logo="" group-title="Channel",gazi tv hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="channel 9 hd" tvg-logo="" group-title="Channel",channel 9 hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="satv hd" tvg-logo="" group-title="Channel",satv hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="n tv" tvg-logo="" group-title="Channel",n tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="my tv hd" tvg-logo="" group-title="Channel",my tv hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sony aath" tvg-logo="" group-title="Channel",sony aath
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="travel xp hd" tvg-logo="" group-title="Channel",travel xp hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star plus" tvg-logo="" group-title="Channel",star plus
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="zee cinema" tvg-logo="" group-title="Channel",zee cinema
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sony max hd" tvg-logo="" group-title="Channel",sony max hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="enter 10 movies" tvg-logo="" group-title="Channel",enter 10 movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&flix" tvg-logo="" group-title="Channel",&flix
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="axn" tvg-logo="" group-title="Channel",axn
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star movies sellect hd" tvg-logo="" group-title="Channel",star movies sellect hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="hbo tv" tvg-logo="" group-title="Channel",hbo tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bbc lifestyle" tvg-logo="" group-title="Channel",bbc lifestyle
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sony ten 1 {link 2}" tvg-logo="" group-title="Channel",sony ten 1 {link 2}
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unknown_44" tvg-logo="" group-title="Channel",Unknown_44
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sony ten 2 hd {link 2}" tvg-logo="" group-title="Channel",sony ten 2 hd {link 2}
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports sellect 1 hd {link 2}" tvg-logo="" group-title="Channel",star sports sellect 1 hd {link 2}
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports sellect 2 hd {link 2}" tvg-logo="" group-title="Channel",star sports sellect 2 hd {link 2}
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="d sports tv" tvg-logo="" group-title="Channel",d sports tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bbc tv" tvg-logo="" group-title="Channel",bbc tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="alzazira tv" tvg-logo="" group-title="Channel",alzazira tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery hd" tvg-logo="" group-title="Channel",discovery hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="durunto tv" tvg-logo="" group-title="Channel",durunto tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cn plus hd" tvg-logo="" group-title="Channel",cn plus hd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="disnep xd" tvg-logo="" group-title="Channel",disnep xd
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bbc ceebies tv" tvg-logo="" group-title="Channel",bbc ceebies tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="nick" tvg-logo="" group-title="Channel",nick
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sangeet bangla" tvg-logo="" group-title="Channel",sangeet bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="m tv" tvg-logo="" group-title="Channel",m tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="qx zalwaa" tvg-logo="" group-title="Channel",qx zalwaa
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="massti" tvg-logo="" group-title="Channel",massti
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dw tv" tvg-logo="" group-title="Channel",dw tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="enter 10 bangla" tvg-logo="" group-title="Channel",enter 10 bangla
-http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace Tv" tvg-logo="" group-title="Channel",Peace Tv
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="RADIO",Radio Foorti (88.0)
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="RADIO/FM LIV",Radio Foorti (88.0)
 http://119.148.23.88:1021/;?@IPTVSoltuion
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Radio(89.2)" tvg-logo="" group-title="RADIO",ABC Radio(89.2)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Radio(89.2)" tvg-logo="" group-title="RADIO/FM LIV",ABC Radio(89.2)
 http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today(89.6)" tvg-logo="" group-title="RADIO",Radio Today(89.6)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today(89.6)" tvg-logo="" group-title="RADIO/FM LIV",Radio Today(89.6)
 http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM (90.4)" tvg-logo="" group-title="RADIO",Dhaka FM (90.4)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM (90.4)" tvg-logo="" group-title="RADIO/FM LIV",Dhaka FM (90.4)
 http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ekattor (98.4)" tvg-logo="" group-title="RADIO",Radio Ekattor (98.4)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ekattor (98.4)" tvg-logo="" group-title="RADIO/FM LIV",Radio Ekattor (98.4)
 http://162.254.149.187:9302/;stream/1;
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="" group-title="RADIO",Radio Goongoon
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="" group-title="RADIO/FM LIV",Radio Goongoon
 http://live.radiogoongoon.com:8888/stream/1/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Sadhin" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Sadhin
 http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
@@ -1402,6 +1297,9 @@ http://94.130.113.214:8000/prog
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Buddhist Online Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",The Buddhist Online Radio
 http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ujala Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Ujala Radio
+
+
+
 http://stream2.ujala.nl/stream/2/listen.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Frozen II  (2019) 1080p" tvg-logo="" group-title="ANIMATION  (ftp.timepassbd.live)",Frozen II  (2019) 1080p
 http://file.tajpata.com/downloads/Movies/Animated/2019/%20Frozen%20II%20%20%282019%29/%20Frozen%20II%20%20%282019%29%201080p.TAJPATA.COM.mkv
