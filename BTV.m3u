@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto Movie" tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="Bangladesh",PLUTO MOVIE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto Movie" tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="USA LIVE TV",PLUTO MOVIE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=d648cec2-cc3d-43a5-b63f-05587af3934e&deviceVersion=88.0.4324.150&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&deviceType=web&deviceMake=Chrome&sid=f870b1c5-6fd0-11eb-b988-0242ac110002&advertisingId=&deviceLat=40.8470&deviceLon=-73.8616&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alif IPTV [BD]" tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="Bangladesh",Alif IPTV [BD]
 http://128.199.212.160/alif/1080/index.m3u8?@amarnettv.live
