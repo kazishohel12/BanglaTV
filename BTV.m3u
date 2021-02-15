@@ -1129,17 +1129,17 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?@amar
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="RADIO/FM LIV",Radio Foorti (88.0)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="RADIO/FM LIVE",Radio Foorti (88.0)
 http://119.148.23.88:1021/;?@IPTVSoltuion
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Radio(89.2)" tvg-logo="" group-title="RADIO/FM LIV",ABC Radio(89.2)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Radio(89.2)" tvg-logo="" group-title="RADIO/FM LIVE",ABC Radio(89.2)
 http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today(89.6)" tvg-logo="" group-title="RADIO/FM LIV",Radio Today(89.6)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Today(89.6)" tvg-logo="" group-title="RADIO/FM LIVE",Radio Today(89.6)
 http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM (90.4)" tvg-logo="" group-title="RADIO/FM LIV",Dhaka FM (90.4)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM (90.4)" tvg-logo="" group-title="RADIO/FM LIVE",Dhaka FM (90.4)
 http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ekattor (98.4)" tvg-logo="" group-title="RADIO/FM LIV",Radio Ekattor (98.4)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ekattor (98.4)" tvg-logo="" group-title="RADIO/FM LIVE",Radio Ekattor (98.4)
 http://162.254.149.187:9302/;stream/1;
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="" group-title="RADIO/FM LIV",Radio Goongoon
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="" group-title="RADIO/FM LIVE",Radio Goongoon
 http://live.radiogoongoon.com:8888/stream/1/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Sadhin" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Sadhin
 http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
