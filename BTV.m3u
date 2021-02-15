@@ -2,7 +2,6 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto ACTION Movie" tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="USA LIVE TV",PLUTO ACTION MOVIE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=d648cec2-cc3d-43a5-b63f-05587af3934e&deviceVersion=88.0.4324.150&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&deviceType=web&deviceMake=Chrome&sid=f870b1c5-6fd0-11eb-b988-0242ac110002&advertisingId=&deviceLat=40.8470&deviceLon=-73.8616&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN NEWYORK" tvg-logo="CBSN" group-title="USA LIVE TV",CBSN NEWYORK
-https://service-stitcher.clusters.pluto.tv/proxy/f870b1c5-6fd0-11eb-b988-0242ac110002/5dc48170e280c80009a861ab/2768101/playlist.m3u8?deviceId=d648cec2-cc3d-43a5-b63f-05587af3934e&deviceVersion=88.0.4324.150&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&deviceType=web&deviceMake=Chrome&sid=f870b1c5-6fd0-11eb-b988-0242ac110002&advertisingId=&deviceLat=40.8470&deviceLon=-73.8616&deviceDNT=0&deviceModel=web
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_12.m3u8
 
 
