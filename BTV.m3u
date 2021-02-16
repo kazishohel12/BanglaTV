@@ -7,7 +7,7 @@ https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa2
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Probashi Bangla" tvg-logo="CBSN" group-title="Bangladesh",Probashi Bangla
 http://tvhostbd.technohaat.com:66/live/probashibangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="https://media-eng.dhakatribune.com/uploads/2019/09/web-btv-n-1567436219502.jpg" group-title="Bangladesh",BTV World
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv-150x150.jpg" group-title="Bangladesh",BTV World
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8?nimblesessionid=24072620&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDEyOjIwOjQzIEFNJmhhc2hfdmFsdWU9bVhMOHhMM092ZVlQZDlaYmFKMjZDUT09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alif IPTV [BD]" tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="Bangladesh",Alif IPTV [BD]
 http://128.199.212.160/alif/1080/index.m3u8?@amarnettv.live
@@ -64,7 +64,7 @@ http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Probashi Bangla" tvg-logo="https://dohabd.com/wp-content/uploads/2019/12/probashi-bangla.jpg" group-title="Bangladesh",Probashi Bangla
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Independent TV" tvg-logo="" group-title="Bangladesh",Independent TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="http://www.jagobd.com/wp-content/uploads/2015/10/inds-150x150.png" tvg-logo="" group-title="Bangladesh",Independent TV
 https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jara TV BD" tvg-logo="" group-title="Bangladesh",Jara TV BD
 https://jaratvbd-hls.telelivebd.com/jaratvbd/jaratvbd.m3u8
