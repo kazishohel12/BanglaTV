@@ -1054,7 +1054,7 @@ http://174.138.118.252/live/trece.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Live" tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Sports",IPL Live
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports" tvg-logo="" group-title="Sports",Fox Spoets
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports" tvg-logo="" group-title="Sports",Fox Sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony SIX HD" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX HD
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
