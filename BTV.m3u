@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Probashi Bangla" tvg-logo="CBSN" group-title="Bangladesh",Probashi Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="http://probashibangla.tv/wp-content/uploads/2019/09/probashi-bangla-tv.jpg" tvg-logo="CBSN" group-title="Bangladesh",Probashi Bangla
 http://tvhostbd.technohaat.com:66/live/probashibangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv-150x150.jpg" group-title="Bangladesh",BTV World
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8?nimblesessionid=24072620&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDEyOjIwOjQzIEFNJmhhc2hfdmFsdWU9bVhMOHhMM092ZVlQZDlaYmFKMjZDUT09JnZhbGlkbWludXRlcz02MA==
