@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV Bangla" tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangladesh",NTV Bangla [BD]
-https://youtu.be/nxTdcjWT918
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Bangal" tvg-logo="http://tv.bdtype.com/uploads/tv_image/cnn-bangla.png" group-title="Bangladesh",CNN Bangla
+http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Probashi Bangla TV" tvg-logo="http://probashibangla.tv/wp-content/uploads/2019/08/probashi-bangla-tv.jpg" group-title="Bangladesh",Probashi Bangla
 http://tvhostbd.technohaat.com:66/live/probashibangla/tracks-v1a1/mono.m3u8
