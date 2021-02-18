@@ -6,7 +6,7 @@ http://tvhostbd.technohaat.com:66/live/probashibangla/tracks-v1a1/mono.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8?nimblesessionid=24072620&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDEyOjIwOjQzIEFNJmhhc2hfdmFsdWU9bVhMOHhMM092ZVlQZDlaYmFKMjZDUT09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alif IPTV [BD]" tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="Bangladesh",Alif IPTV [BD]
 http://128.199.212.160/alif/1080/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ayna IPTV [BD]" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ayna.jpg" group-title="Bangladesh",Ayna IPTV [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Agami TV [NYC]" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ayna.jpg" group-title="Bangladesh",Agami TV NYC
 http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla IPTV [BD]" tvg-logo="https://i.imgur.com/bYFH9ra.jpg" group-title="Bangladesh",Bangla IPTV [BD]
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8?@amarnettv.live
