@@ -59,7 +59,7 @@ http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Probashi Bangla" tvg-logo="https://dohabd.com/wp-content/uploads/2019/12/probashi-bangla.jpg" group-title="Bangladesh",Probashi Bangla
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="http://www.jagobd.com/wp-content/uploads/2015/10/inds-150x150.png" tvg-logo="" group-title="Bangladesh",Independent TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Independent TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds.png" group-title="Bangladesh",Independent TV
 https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jara TV BD" tvg-logo="" group-title="Bangladesh",Jara TV BD
 https://jaratvbd-hls.telelivebd.com/jaratvbd/jaratvbd.m3u8
