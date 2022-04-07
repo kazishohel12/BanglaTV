@@ -75,7 +75,10 @@ http://new-pro.tv:8080/Fernando/123321/72047?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/84134?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Star Jalsa Movies
 http://new-pro.tv:8080/Fernando/123321/178055?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Star Plus HD
+http://new-pro.tv:8080/Fernando/123321/72053?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",Star Sports 1 Hindi HD
+http://new-pro.tv:8080/Fernando/123321/178133?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangladesh",Zee Bangla Cinema [IN]
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Bangladesh",Zee Bangla HD
