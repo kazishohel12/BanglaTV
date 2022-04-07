@@ -70,7 +70,7 @@ http://tv.telelivebd.com/hls/maasrangatvhd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Calcutta News [IN]" tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="Bangladesh",Calcutta News [IN]
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/cnews.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD [IN] (2)" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Bangladesh",Star Jalsha HD [IN] (2)
-https://catchup.yuppcdn.net/amazonv2/20/preview/starjalsha/master/master.m3u8?hdnts=st=1613690788~exp=1613691388~acl=!*/20/preview/starjalsha/*!/payload/yuppTVCom_5_-1_2a63f7887cbf4269_SG_77.111.245.14/*~hmac=b7595dceae28825872efe7778bb9b60e03c8efc14ddee45a51ab10d939580ed6
+https://list.iptvcat.com/my_list/s/a5392c055e5dd20dfad8224d2838fef6.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangladesh",Zee Bangla Cinema [IN]
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Bangladesh",Zee Bangla HD
